@@ -55,7 +55,7 @@ Contributions are welcome! Please create an issue or submit a pull request.
 
 ## Output
 
-![image](https://github.com/nitamnegi/spam_sms/assets/148671313/cc7d643c-18ea-43ed-bf5a-a485daf8d8a2)
-![image](https://github.com/nitamnegi/spam_sms/assets/148671313/fde54be0-a7fe-4e83-9527-be4a0bd2ad76)
+![image](https://github.com/nitamnegi/spam_sms/assets/148671313/619fb854-bf49-4bb6-ae12-a42745b73dbd)
+![image](https://github.com/nitamnegi/spam_sms/assets/148671313/f76bfde9-63cb-4e62-aece-cabf30a60bed)
 
 
